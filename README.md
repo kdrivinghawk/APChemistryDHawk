@@ -1,4 +1,3 @@
-[virtual_lab_heating_a_volatile_liquid_interactive_html.html](https://github.com/user-attachments/files/22374883/virtual_lab_heating_a_volatile_liquid_interactive_html.html)
 <!doctype html>
 <html lang="en">
 <head>
